@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bthre"
+    android:background="@color/brown1"
     android:padding="16dp"
     android:gravity="center"
     tools:context=".Signup">
@@ -24,9 +24,8 @@
             android:id="@+id/profile"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:background="@drawable/round_background"
             android:padding="15dp"
-            android:src="@drawable/add"
+            android:src="@drawable/register"
             tools:ignore="ContentDescription" />
 
         <com.google.android.material.textfield.TextInputLayout
@@ -49,8 +48,8 @@
                 android:fontFamily="@font/opensans"
                 android:inputType="textNoSuggestions"
                 android:background="@android:color/transparent"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:maxLines="1"
                 android:singleLine="true"
                 android:importantForAutofill="no"/>
@@ -79,8 +78,8 @@
                 android:background="@android:color/transparent"
                 android:maxLines="1"
                 android:singleLine="true"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:importantForAutofill="no"/>
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -108,8 +107,8 @@
                 android:inputType="phone"
                 android:maxLines="1"
                 android:singleLine="true"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:importantForAutofill="no"/>
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -137,8 +136,8 @@
                 android:background="@android:color/transparent"
                 android:maxLines="1"
                 android:singleLine="true"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:importantForAutofill="no"/>
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -161,7 +160,7 @@
             android:layout_marginBottom="5dp"
             android:gravity="center"
             android:text="@string/not_register"
-            android:textColor="@color/black"
+            android:textColor="@color/brown"
             android:fontFamily="@font/opensans"
             android:textSize="17sp"/>
 

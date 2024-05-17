@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bthre"
+    android:background="@color/brown1"
     android:gravity="center"
     android:padding="16dp"
     tools:context=".Logup">
@@ -23,9 +23,8 @@
             android:id="@+id/profile"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:background="@drawable/round_background"
             android:padding="15dp"
-            android:src="@drawable/add"
+            android:src="@drawable/login"
             tools:ignore="ContentDescription" />
 
 
@@ -51,8 +50,8 @@
                 android:inputType="textEmailAddress"
                 android:maxLines="1"
                 android:singleLine="true"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:textSize="20sp" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -80,8 +79,8 @@
                 android:inputType="textPassword"
                 android:maxLines="1"
                 android:singleLine="true"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:textSize="20sp" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -104,7 +103,7 @@
             android:fontFamily="@font/opensans"
             android:gravity="center"
             android:text="@string/create_new"
-            android:textColor="@color/black"
+            android:textColor="@color/brown"
             android:textSize="17sp" />
 
     </LinearLayout>

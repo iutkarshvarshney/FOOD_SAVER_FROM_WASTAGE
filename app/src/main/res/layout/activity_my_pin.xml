@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@color/brown1"
     android:foregroundServiceType="location"
     tools:context=".MyPin">
 
@@ -16,7 +16,7 @@
         android:layout_marginBottom="20dp"
         android:fontFamily="@font/opensans"
         android:text="@string/mypin"
-        android:textColor="@color/black"
+        android:textColor="@color/brown"
         android:textSize="24sp" />
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/google_map"

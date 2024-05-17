@@ -1,11 +1,11 @@
 <resources>
-    <string name="welcome">Welcome to FOOD COMMUNITY SERVICE</string>
-    <string name="app_name">FOOD HUNGER</string>
+    <string name="welcome">Welcome to FSFW</string>
+    <string name="app_name">FOOD SAVER FROM WASTAGE(FSFW)</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
     <string name="about">About Us</string>
     <string name="history">History</string>
-    <string name="aboutus">FOOD HUNGER provides the right channels for compassionate citizens to begin and manage initiatives, that solve for hunger locally. Our mission is to make India hunger free.</string>
+    <string name="aboutus">FSFW provides the right channels for compassionate citizens to begin and manage initiatives, that solve for hunger locally. Our mission is to make India hunger free.</string>
     <string name="login">Login</string>
     <string name="donate">Donate</string>
     <string name="message">Message</string>

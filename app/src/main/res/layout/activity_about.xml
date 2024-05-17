@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@color/brown1"
     tools:context=".About">
     <LinearLayout
         android:layout_width="match_parent"
@@ -27,7 +27,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="18dp"
                 android:layout_marginBottom="28dp"
-                android:src="@drawable/splash"
+                android:src="@drawable/about_us"
                 tools:ignore="ContentDescription" />
 
 
@@ -47,7 +47,7 @@
                 android:layout_height="60dp"
                 android:layout_margin="10dp"
                 android:clickable="true"
-                app:cardBackgroundColor="@color/white"
+                app:cardBackgroundColor="@color/brown"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
                 tools:ignore="KeyboardInaccessibleWidget">
@@ -78,7 +78,7 @@
                 android:layout_height="60dp"
                 android:layout_margin="10dp"
                 android:clickable="true"
-                app:cardBackgroundColor="@color/white"
+                app:cardBackgroundColor="@color/brown"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
                 tools:ignore="KeyboardInaccessibleWidget">
@@ -110,7 +110,7 @@
             android:layout_height="60dp"
             android:layout_margin="10dp"
             android:clickable="true"
-            app:cardBackgroundColor="@color/white"
+            app:cardBackgroundColor="@color/brown"
             app:cardCornerRadius="12dp"
             app:cardElevation="5dp"
             tools:ignore="KeyboardInaccessibleWidget">

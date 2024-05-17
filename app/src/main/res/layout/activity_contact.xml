@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/btwoo"
+    android:background="@color/brown1"
     android:gravity="center"
     android:padding="16dp"
     tools:context=".Contact">
@@ -20,9 +20,8 @@
 
         <ImageView
             android:id="@+id/profile"
-            android:layout_width="100dp"
+            android:layout_width="130dp"
             android:layout_height="100dp"
-            android:background="@drawable/round_background"
             android:padding="15dp"
             android:src="@drawable/contact"
             tools:ignore="ContentDescription" />
@@ -49,8 +48,8 @@
                 android:inputType="textNoSuggestions"
                 android:maxLines="1"
                 android:singleLine="true"
-                android:textColor="@color/red"
-                android:textColorHint="@color/ic_launcher_background"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:textSize="20sp" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -77,8 +76,8 @@
                 android:inputType="textEmailAddress"
                 android:maxLines="1"
                 android:singleLine="true"
-                android:textColor="@color/red"
-                android:textColorHint="@color/red"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:textSize="20sp" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -105,8 +104,8 @@
                 android:inputType="text"
                 android:maxLines="20"
                 android:singleLine="true"
-                android:textColor="@color/black"
-                android:textColorHint="@color/black"
+                android:textColor="@color/brown"
+                android:textColorHint="@color/brown"
                 android:textSize="20sp" />
 
         </com.google.android.material.textfield.TextInputLayout>
@@ -118,7 +117,7 @@
             android:layout_margin="20dp"
             android:background="@drawable/button_rounded"
             android:text="@string/submit"
-            android:textColor="@color/white"
+            android:textColor="@color/brown"
             android:textSize="16sp" />
 
     </LinearLayout>

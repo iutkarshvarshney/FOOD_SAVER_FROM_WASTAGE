@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@color/brown"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -37,7 +37,7 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
                     <ImageView
                         android:layout_width="100dp"
@@ -63,12 +63,12 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/rcv"
+                        android:src="@drawable/recieve"
                         android:layout_gravity="center_horizontal"
                         android:layout_marginTop="15dp"/>
                     <TextView
@@ -89,13 +89,13 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
 
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/map"
+                    android:src="@drawable/food_map"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="15dp"/>
                 <TextView
@@ -116,12 +116,12 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/mypins"
+                    android:src="@drawable/pins"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="15dp" />
                 <TextView
@@ -142,7 +142,7 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
                 <ImageView
                     android:layout_width="100dp"
@@ -168,13 +168,13 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
 
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/about"
+                    android:src="@drawable/about_us"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="15dp"/>
                 <TextView
@@ -195,7 +195,7 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
 
                 <ImageView
@@ -222,13 +222,13 @@
                 android:layout_height="165dp"
                 app:cardCornerRadius="12dp"
                 app:cardElevation="5dp"
-                app:cardBackgroundColor="@color/zircon"
+                app:cardBackgroundColor="@color/brown1"
                 android:layout_margin="10dp">
 
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/lgout"
+                    android:src="@drawable/logout"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="15dp"/>
                 <TextView
