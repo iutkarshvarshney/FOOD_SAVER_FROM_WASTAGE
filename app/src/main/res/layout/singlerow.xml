@@ -11,7 +11,7 @@
     android:layout_marginRight="10dp"
 
     android:clickable="true"
-    app:cardBackgroundColor="@color/gray"
+    app:cardBackgroundColor="@color/brown"
     app:cardCornerRadius="12dp"
     app:cardElevation="5dp"
     tools:ignore="KeyboardInaccessibleWidget">

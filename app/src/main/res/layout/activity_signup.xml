@@ -34,9 +34,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             app:hintAnimationEnabled="true"
-            android:textColorHint="@color/black"
-            app:hintTextColor="@color/black"
-            app:boxStrokeColor="@color/black">
+            android:textColorHint="@color/brown"
+            app:hintTextColor="@color/brown"
+            app:boxStrokeColor="@color/brown">
 
             <EditText
                 android:id="@+id/name"
@@ -62,9 +62,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             app:hintAnimationEnabled="true"
-            android:textColorHint="@color/black"
-            app:hintTextColor="@color/black"
-            app:boxStrokeColor="@color/black">
+            android:textColorHint="@color/brown"
+            app:hintTextColor="@color/brown"
+            app:boxStrokeColor="@color/brown">
 
             <EditText
                 android:id="@+id/email"
@@ -90,9 +90,9 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             app:hintAnimationEnabled="true"
-            android:textColorHint="@color/black"
-            app:hintTextColor="@color/black"
-            app:boxStrokeColor="@color/black">
+            android:textColorHint="@color/brown"
+            app:hintTextColor="@color/brown"
+            app:boxStrokeColor="@color/brown">
 
             <EditText
                 android:id="@+id/phone"
@@ -120,9 +120,9 @@
             app:passwordToggleEnabled="true"
             android:layout_marginTop="5dp"
             app:hintAnimationEnabled="true"
-            android:textColorHint="@color/black"
-            app:hintTextColor="@color/black"
-            app:boxStrokeColor="@color/black">
+            android:textColorHint="@color/brown"
+            app:hintTextColor="@color/brown"
+            app:boxStrokeColor="@color/brown">
 
             <EditText
                 android:id="@+id/password"
