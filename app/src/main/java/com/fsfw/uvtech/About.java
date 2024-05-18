@@ -27,7 +27,7 @@ public class About extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent myWebLink = new Intent(android.content.Intent.ACTION_VIEW);
-                myWebLink.setData(Uri.parse("http://www.instagram.com"));
+                myWebLink.setData(Uri.parse("https://github.com/ipriyagaur"));
                 startActivity(myWebLink);
             }
         });
@@ -36,7 +36,7 @@ public class About extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent myWebLink = new Intent(android.content.Intent.ACTION_VIEW);
-                myWebLink.setData(Uri.parse("http://www.facebook.com"));
+                myWebLink.setData(Uri.parse("https://github.com/bhardwajn568"));
                 startActivity(myWebLink);
             }
         });
@@ -45,7 +45,7 @@ public class About extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent myWebLink = new Intent(android.content.Intent.ACTION_VIEW);
-                myWebLink.setData(Uri.parse("http://www.twitter.com"));
+                myWebLink.setData(Uri.parse("https://github.com/iutkarshvarshney"));
                 startActivity(myWebLink);
             }
         });

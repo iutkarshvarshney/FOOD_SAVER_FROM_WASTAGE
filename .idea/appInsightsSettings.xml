@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.fsfw.uvtech" />
-                  <option name="mobileSdkAppId" value="1:854274495249:android:1e8b66897770a44f1632b0" />
-                  <option name="projectId" value="food-community-service" />
-                  <option name="projectNumber" value="854274495249" />
+                  <option name="mobileSdkAppId" value="1:834965367738:android:47a33df0e59606043d0b83" />
+                  <option name="projectId" value="food-saver-from-wastage" />
+                  <option name="projectNumber" value="834965367738" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

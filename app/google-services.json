@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "854274495249",
-    "project_id": "food-community-service",
-    "storage_bucket": "food-community-service.appspot.com"
+    "project_number": "834965367738",
+    "firebase_url": "https://food-saver-from-wastage-default-rtdb.firebaseio.com",
+    "project_id": "food-saver-from-wastage",
+    "storage_bucket": "food-saver-from-wastage.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:854274495249:android:1e8b66897770a44f1632b0",
+        "mobilesdk_app_id": "1:834965367738:android:47a33df0e59606043d0b83",
         "android_client_info": {
           "package_name": "com.fsfw.uvtech"
         }
       },
       "oauth_client": [
         {
-          "client_id": "854274495249-q7ik4phgg48gv2g0q1qmmmrejjsk77vl.apps.googleusercontent.com",
+          "client_id": "834965367738-ksvj70uqma24gji54ajn0dt5gctntoh5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAyB1EME2OUcUtgjmQmfe6IUy4IMBS__KU"
+          "current_key": "AIzaSyAZSsnaIlU_q1YtF-nD3BmRBjnY18O-q0c"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "854274495249-q7ik4phgg48gv2g0q1qmmmrejjsk77vl.apps.googleusercontent.com",
+              "client_id": "834965367738-ksvj70uqma24gji54ajn0dt5gctntoh5.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

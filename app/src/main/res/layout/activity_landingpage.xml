@@ -96,7 +96,7 @@
                     <ImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        android:src="@drawable/images"
+                        android:src="@drawable/about_us"
                         android:layout_marginTop="18dp"
                         tools:ignore="ContentDescription"
                         android:layout_gravity="center_horizontal"/>
